@@ -4,8 +4,7 @@ A Streamlit web application that performs **sentiment analysis** on movie review
 
 ## 🚀 Demo
 
-🌐 Live App: [Click to Try the App](https://analyzer-lhx2aceet7ajpf4cujfvgz.streamlit.app) *(Update if link changes)*
-
+🌐 Live App: 
 ## 🧠 Features
 
 - Accepts user input as plain text movie reviews.
